@@ -1,2 +1,2 @@
-      Sorting Paradigm 
-In this repository, you will find some commonly used sorting algorithms written in C++/Java.
+# Sorting Algorithm
+Implementation of QuickSort,Merge Sort, Selection Sort, Bubble Sort, and Insertion Sort in C++.
